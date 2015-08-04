@@ -1,0 +1,22 @@
+{
+	"questions":[
+	{	"id":1,
+		"text": "What year now?",
+		"answers":[2010, 2011, 2012,2015],
+		"correct": 2015
+	},
+	{	"id":2,
+		"text":"What grass color is?",
+		"answers":["red","blue","white","green"],
+		"correct":"green"
+
+	},
+	{	"id":3,
+		"text":"How many months in year has?",
+		"answers":[10,12,4,9],
+		"correct":12
+
+	}
+
+		]
+}

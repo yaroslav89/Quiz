@@ -1,0 +1,21 @@
+.quiz {
+	position: relative;
+	width: 600px;
+	height: 600px;
+	margin: auto auto;
+}
+
+.quiz form {
+	margin: 200px 200px 0 0;
+}
+
+.quiz form input,span {
+	margin-top:10px;
+}
+.info {
+	margin-top: 10px;
+}
+
+.questions_num {
+	margin-left: 20px;
+}
